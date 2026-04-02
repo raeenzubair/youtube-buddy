@@ -1,4 +1,4 @@
-# TubeSnatch — YouTube Downloader
+# YouTube_Buddy — YouTube Downloader
 
 A full-stack YouTube downloader with a slick dark UI. Paste any YouTube video or channel URL to download video, audio (MP3), or thumbnails.
 
